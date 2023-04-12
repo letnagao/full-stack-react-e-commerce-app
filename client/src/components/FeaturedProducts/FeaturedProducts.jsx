@@ -1,8 +1,8 @@
 import React from "react";
 import "./FeaturedProducts.scss";
-import { Card } from "@mui/material";
+import Card from "../Card/Card";
 
-const FeaturedProducts = ({ type }) => {
+const FeaturedProducts = ({type}) => {
   const data = [
     {
       id: 1,

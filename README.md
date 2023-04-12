@@ -1,12 +1,12 @@
 ## full-stack-react-e-commerce-app 🎯
  Complete Shopping App using React, Strapi & Stripe.
  
-![Language count](https://img.shields.io/github/languages/count/letnagaofull-stack-react-e-commerce-app?color=green)
-![Top language](https://img.shields.io/github/languages/top/letnagaofull-stack-react-e-commerce-app?color=ff69b4)
-![Repo size](https://img.shields.io/github/repo-size/letnagaofull-stack-react-e-commerce-app?color=yellow)
-![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagaofull-stack-react-e-commerce-app?color=blue)
-![Latest commit](https://img.shields.io/github/last-commit/letnagaofull-stack-react-e-commerce-app?color=red)
-[![GitHub watchers](https://img.shields.io/github/watchers/letnagaofull-stack-react-e-commerce-app?logo=GitHub)](https://github.com/letnagaofull-stack-react-e-commerce-app/watchers)
+![Language count](https://img.shields.io/github/languages/count/letnagao/full-stack-react-e-commerce-app?color=green)
+![Top language](https://img.shields.io/github/languages/top/letnagao/full-stack-react-e-commerce-app?color=ff69b4)
+![Repo size](https://img.shields.io/github/repo-size/letnagao/full-stack-react-e-commerce-app?color=yellow)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/full-stack-react-e-commerce-app?color=blue)
+![Latest commit](https://img.shields.io/github/last-commit/letnagao/full-stack-react-e-commerce-app?color=red)
+[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/full-stack-react-e-commerce-app?logo=GitHub)](https://github.com/letnagao/full-stack-react-e-commerce-app/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 </ul><h2> Preview ⚡️</h2>

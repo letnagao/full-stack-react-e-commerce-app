@@ -1,5 +1,5 @@
 ## full-stack-react-e-commerce-app 🎯
- Complete Shopping App using React, Strapi & Stripe.
+Complete Shopping App using React, Strapi & Stripe.
  
 ![Language count](https://img.shields.io/github/languages/count/letnagao/full-stack-react-e-commerce-app?color=green)
 ![Top language](https://img.shields.io/github/languages/top/letnagao/full-stack-react-e-commerce-app?color=ff69b4)
@@ -8,11 +8,20 @@
 ![Latest commit](https://img.shields.io/github/last-commit/letnagao/full-stack-react-e-commerce-app?color=red)
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/full-stack-react-e-commerce-app?logo=GitHub)](https://github.com/letnagao/full-stack-react-e-commerce-app/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
-
+ 
 </ul><h2> Preview ⚡️</h2>
-<p align="center">
-  <img src="" />
-</p>  
+<table align="center">
+  <tr>
+    <td><img src="" width=1280 height=800></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="" width=350 height=480></td>
+    <td><img src="" width=350 height=480></td>
+    <td><img src="" width=350 height=480></td>
+  </tr>
+ </table>
 
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
